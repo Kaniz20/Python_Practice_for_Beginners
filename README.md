@@ -1,31 +1,8 @@
 # Python_Practice_for_Beginners
 Step-by-step Python tutorials and practice codes for beginners.
 
----
 
-````markdown
-# Beginner Friendly Python 🐍
-
-Step-by-step **Python basics** with Jupyter Notebook.  
-This repository is designed for absolute beginners who want to learn Python by practicing small examples.
-
----
-
-## 📖 Description
-This repo contains **Python basics explained step by step** in Jupyter Notebooks.  
-Each notebook covers one topic such as variables, data types, loops, functions, etc.
-
----
-
-## 🛠️ Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/beginner-friendly-python.git
-   cd beginner-friendly-python
-````
-
-2. **Create environment (optional but recommended)**
+1. **Create environment (optional but recommended)**
 
    ```bash
    python -m venv venv
@@ -33,13 +10,13 @@ Each notebook covers one topic such as variables, data types, loops, functions, 
    venv\Scripts\activate      # Windows
    ```
 
-3. **Install requirements**
+2. **Install requirements**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run Jupyter Notebook**
+3. **Run Jupyter Notebook**
 
    ```bash
    jupyter notebook
@@ -68,7 +45,7 @@ Each notebook covers one topic such as variables, data types, loops, functions, 
 
 ---
 
-## 🎯 Who is this for?
+##  Who is this for?
 
 * Absolute beginners who want to start coding in Python
 * Learners who prefer practicing in Jupyter Notebook
@@ -76,13 +53,13 @@ Each notebook covers one topic such as variables, data types, loops, functions, 
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 If you want to add new topics or practice problems, feel free to open a pull request.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License** – free to use, modify, and share.
 

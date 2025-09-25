@@ -92,6 +92,4 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 
 ---
 
-👉 Do you also want me to create a **starter Jupyter Notebook template** for each topic (just the headings and empty cells) so you can directly upload them to GitHub?
-```
 

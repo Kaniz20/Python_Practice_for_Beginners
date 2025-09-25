@@ -1,9 +1,6 @@
 # Python_Practice_for_Beginners
 Step-by-step Python tutorials and practice codes for beginners.
 
-
-Got it 👍 Here’s the same **README.md** file in **English only**, fully beginner-friendly and clean for GitHub:
-
 ---
 
 ````markdown

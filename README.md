@@ -39,9 +39,6 @@ Step-by-step Python tutorials and practice codes for beginners.
 11. **11\_modules.ipynb** → Import and Libraries
 12. **12\_file\_handling.ipynb** → Reading/Writing files
 13. **13\_oop\_basics.ipynb** → Class & Object basics
-14. **14\_numpy\_intro.ipynb** → Introduction to NumPy Arrays
-15. **15\_pandas\_intro.ipynb** → Introduction to Pandas DataFrames
-16. **16\_matplotlib\_intro.ipynb** → Introduction to Matplotlib plotting
 
 ---
 
